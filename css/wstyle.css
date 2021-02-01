@@ -937,19 +937,19 @@ div.b7_bottom div {
 }
 
 #wrap > ul > li:nth-child(1) {
-    background: url('../img/myCVimgs/b4_01.png') no-repeat center/cover;
+    background: url('../img/myCVimgs/bg4_05.png') no-repeat center/cover;
 }
 
 #wrap > ul > li:nth-child(2) {
-    background: url('../img/myCVimgs/b4_04.png') no-repeat center/cover;
-}
-
-#wrap > ul > li:nth-child(3) {
     background: url('../img/myCVimgs/b4_03.png') no-repeat center/cover;
 }
 
+#wrap > ul > li:nth-child(3) {
+    background: url('../img/myCVimgs/bg4_06.png') no-repeat center/cover;
+}
+
 #wrap > ul > li:nth-child(4) {
-    background: url('../img/myCVimgs/b4_02.png') no-repeat center/cover;
+    background: url('../img/myCVimgs/bg4_07.png') no-repeat center/cover;
     width: 700px;
 }
 
